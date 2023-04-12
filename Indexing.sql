@@ -1,3 +1,11 @@
+/*
+Indexing is a database optimization technique used to speed up the search and retrieval of data from a database table. 
+An index is essentially a data structure that is created based on one or more columns of a table. 
+The index stores a copy of the data in a sorted order, along with a pointer to the actual location of the data in the table. 
+This allows the database management system to locate the data more quickly when a query is executed.
+*/
+
+
 /* 
 Creating index on the email column 
 for faster searching
